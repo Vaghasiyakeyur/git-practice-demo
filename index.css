@@ -25,16 +25,6 @@ h1 {
   }
 }
 
-@keyframes colorChange {
-  from {
-    color: #333;
-  }
-  to {
-    color: #ff6347;
-  }
-
-}
-
   
   @keyframes colorChange {
     from {
@@ -44,6 +34,8 @@ h1 {
       color: #ff6347;
     }
   }
+ {
+
   button {
     background-color: #4CAF50;
     border: none;
